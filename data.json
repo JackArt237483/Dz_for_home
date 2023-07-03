@@ -1,0 +1,87 @@
+{
+  "John": {
+    "age": 18,
+    "parents": {
+      "Mbappe": {
+        "age": 30,
+        "parents": {
+          "Ronaldo": {
+            "age" : 50
+          }
+        }
+      }
+    }
+  },
+  "Artem": {
+    "age": 22,
+    "parents": {
+      "Kane": {
+        "age": 39,
+        "parents": {
+          "Salah": {
+            "age" : 51,
+            "parents": {
+              "Mane": {
+                "age": 89
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "Emir": {
+    "age": 18,
+    "parents": {
+      "Kante": {
+        "age": 42,
+        "parents": {
+          "Pulisic": {
+            "age" : 52,
+             "parents": {
+              "Buffon": {
+                "age": 82
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "Chyngyz": {
+    "age": 28,
+    "parents": {
+      "Messi": {
+        "age": 32,
+        "parents": {
+          "Vinicious": {
+            "age" : 55,
+            "parents": {
+              "Sane": {
+                "age": 74
+              }
+            }
+          }
+        }
+      }
+    }
+ },
+ "Zamira": {
+    "age": 32,
+    "parents": {
+      "Neymar": {
+        "age": 28,
+        "parents": {
+          "Ramos": {
+            "age" : 65,
+            "parents": {
+              "Varane": {
+                 "age": 78
+              }
+             }
+          }
+        }
+      }
+    }
+  }
+}
